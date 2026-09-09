@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi, I'm Gokul Nath
 
-<!--
-**realgokulnath-dev/realgokulnath-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Python Backend Developer | Full-Stack Developer
 
-Here are some ideas to get you started:
+I'm a final-year B.Tech Information Technology student passionate about
+building web applications and backend systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+- Python
+- JavaScript
+- React.js
+- FastAPI
+- Node.js
+- Express.js
+- MySQL
+- MongoDB
+- Git & GitHub
+
+## 🚀 Projects
+
+- E-Commerce Platform
+- Generative AI Chatbot
+- Smart Expense Tracker
+- Maize - King Business App
+
+## 🤝 Connect With Me
+
+- LinkedIn
+- Portfolio
