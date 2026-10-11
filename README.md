@@ -20,7 +20,6 @@
 - 🎓 Final-year **B.Tech Information Technology** student
 - 🐍 Passionate about **Python backend development** and clean APIs
 - 🌐 Love building **full-stack web applications** from scratch
-- 🤖 Exploring **Generative AI** and building intelligent apps
 - 🚀 Always learning, always building
 
 ---
